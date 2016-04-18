@@ -1,0 +1,10 @@
+[info]
+title=ConvertToUTF8
+desc=ConvertToUTF8 for CudaText
+type=cudatext-plugin
+subdir=cuda_convert_to_utf8
+homepage=https://github.com/seanliang/ConvertToUTF8ForCudaText
+
+[item1]
+section=events
+events=on_open,on_save
